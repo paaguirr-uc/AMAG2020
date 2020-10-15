@@ -1,1 +1,7 @@
 numpy==1.14.5
+scipy
+pandas
+geopandas
+folium
+bokeh
+pysal
