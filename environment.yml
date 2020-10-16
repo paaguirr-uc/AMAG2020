@@ -19,4 +19,4 @@ dependencies:
   - descartes
   - scipy
   - seaborn
-  - sklearn
+  - scikit-learn
