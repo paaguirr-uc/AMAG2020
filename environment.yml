@@ -18,3 +18,5 @@ dependencies:
   - rtree
   - descartes
   - scipy
+  - seaborn
+  - sklearn
