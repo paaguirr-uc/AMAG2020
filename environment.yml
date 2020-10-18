@@ -32,4 +32,5 @@ dependencies:
     - future==0.18.2
     - plotly==4.10.0
     - flask-ngrok
+    - jupyter-dash
 
