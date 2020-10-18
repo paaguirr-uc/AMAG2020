@@ -20,11 +20,14 @@ dependencies:
   - scipy
   - seaborn
   - scikit-learn
-  - plotly
-  - dash
-  - dash-core-components
-  - dash-html-components
-  - dash-renderer
-  - networkx
-  - igraph
-  - cdlib
+  - pip:
+    - cdlib==0.1.8
+    - dash==1.16.1
+    - dash-core-components==1.12.1
+    - dash-html-components==1.1.1
+    - dash-renderer==1.8.1
+    - dash-table==4.10.1
+    - flask==1.1.2
+    - flask-compress==1.5.0
+    - future==0.18.2
+    - plotly==4.10.0
