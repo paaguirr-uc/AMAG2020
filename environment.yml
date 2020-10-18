@@ -20,3 +20,11 @@ dependencies:
   - scipy
   - seaborn
   - scikit-learn
+  - plotly
+  - dash
+  - dash-core-components
+  - dash-html-components
+  - dash-renderer
+  - networkx
+  - igraph
+  - cdlib
