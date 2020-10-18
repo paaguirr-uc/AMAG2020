@@ -31,3 +31,5 @@ dependencies:
     - flask-compress==1.5.0
     - future==0.18.2
     - plotly==4.10.0
+    - flask-ngrok
+
