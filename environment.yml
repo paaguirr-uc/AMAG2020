@@ -20,8 +20,8 @@ dependencies:
   - scipy
   - seaborn
   - scikit-learn
-  - networkx
   - python-igraph
+  - plotly jupyter-dash
   - pip:
     - cdlib==0.1.8
     - dash==1.16.1
@@ -32,5 +32,4 @@ dependencies:
     - flask==1.1.2
     - flask-compress==1.5.0
     - plotly==4.10.0
-    - jupyter-dash
-
+    - networkx==2.3
