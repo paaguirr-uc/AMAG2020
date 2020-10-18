@@ -21,7 +21,7 @@ dependencies:
   - seaborn
   - scikit-learn
   - python-igraph
-  - plotly plotly jupyter-dash
+  - jupyter-dash
   - pip:
     - cdlib==0.1.8
     - dash==1.16.1
