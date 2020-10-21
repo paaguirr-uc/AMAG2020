@@ -21,7 +21,6 @@ dependencies:
   - seaborn
   - scikit-learn
   - python-igraph
-  - scikit-gstat
   - pip:
     - cdlib==0.1.8
     - dash==1.16.1
